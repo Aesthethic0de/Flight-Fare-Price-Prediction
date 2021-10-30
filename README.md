@@ -11,8 +11,6 @@
   * [Future scope of project](#future-scope)
 
 
-## Demo
-Link: [https://intense-island-67049.herokuapp.com/](https://intense-island-67049.herokuapp.com/)
 
 [![](https://i.imgur.com/5K05LF4.jpg)](https://intense-island-67049.herokuapp.com/)
 
