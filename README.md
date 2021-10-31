@@ -14,7 +14,7 @@
 
 [![](https://i.imgur.com/5K05LF4.jpg)](https://intense-island-67049.herokuapp.com/)
 
-[![](https://i.imgur.com/3tBtpxO.jpg)](https://intense-island-67049.herokuapp.com/)
+
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
